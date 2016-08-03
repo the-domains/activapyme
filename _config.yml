@@ -1,20 +1,4 @@
-name: ActivaPYME
-favicon: null
-layout_spectrum: 0.01372
 typography_spectrum: 0.01082
-title: ERP en la nube
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e48020'
@@ -26,4 +10,22 @@ color:
   lightness: 0.5625
   saturation: 0.43963737040758133
   rhythmicContrast: 0.5546852794941515
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.01372
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca045ca4-1d23-46ff-9e61-f2e0f35cfd84.png
+name: ActivaPYME
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ERP en la nube
 purpose: []
