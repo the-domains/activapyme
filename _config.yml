@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Visit us
+    url: 'https://activapyme.mx'
+    type: external
 favicon: null
 title: ERP en la nube
 purpose: []
